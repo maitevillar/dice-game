@@ -1,6 +1,6 @@
 # Dice game
 
-_El juego de los dados_
+_El juego de los dados_ -
 Proyecto desarrollado con javascript para asentar las bases.
 
 ## Contenido
@@ -55,7 +55,7 @@ $ npm start
 
 ## Imagenes de la web 💻
 
-![video](images/video.mp4)
+![video](images/dice-game.gif)
 
 
 - Para jugar entra y entretente ! 😀
