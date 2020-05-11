@@ -1,4 +1,4 @@
-# Rick & Morty browser
+# Dice game
 
 _El juego de los dados_
 Proyecto desarrollado con javascript para asentar las bases.
@@ -41,7 +41,7 @@ Necesitarás instalar 📋 Node.js para trabajar con este repositorio, luego:
 
 1. Descarga o clona el repositorio. ⚙️
 ```
-$ git clone https://github.com/Adalab/project-promo-i-module-3-team-2-afternoon
+$ git clone https://github.com/maitevillar/dice-game.git
 ```
 2. Abre el proyecto en tu editor de codigo (Visual Sudio Code, Atom, Brackets...)
 3. Instala las dependencias locales
@@ -55,7 +55,7 @@ $ npm start
 
 ## Imagenes de la web 💻
 
-![video](/images/video.mp4)
+![video](images/video.mp4)
 
 
 - Para jugar entra y entretente ! 😀
